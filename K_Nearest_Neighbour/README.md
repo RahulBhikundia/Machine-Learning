@@ -1,0 +1,2 @@
+# K Nearest Neighbour
+My Approach in trying to implement KNN from Scratch, though it's not genralized. It can be generalized with the help of 'class'. Will try to implement it again when i've read a little more about sklearn and how it can be used to impliment a ML model 
