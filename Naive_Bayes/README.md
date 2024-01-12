@@ -13,7 +13,7 @@ Bayes Theorem is used to determine the probability of a Hypthesis with prior kno
 P(A/B) = (P(B/A) * P(A)) / P(B)
 ```
 
-P(A/B) : Posterior Probability
+P(A/B) : Posterior Probability  
 P(B/A) : Likelihood Probability
 
 **Posterior Probability:** Probability of hypothesis A on observed event B
