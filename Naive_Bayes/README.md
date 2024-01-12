@@ -6,4 +6,8 @@ Supervised machine learning algorithm which is used for Classification
 * Bayes: It is based on Bayes Theorem
 
 ### Bayes Theorem:
+Bayes Theorem is used to determine the probability of a Hypthesis with prior knowledge. It depends on conditional probability
 
+```
+P(A/B) = (P(B/A) * P(A)) / P(B)
+```
