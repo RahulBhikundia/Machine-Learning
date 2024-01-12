@@ -16,5 +16,5 @@ P(A/B) = (P(B/A) * P(A)) / P(B)
 P(A/B) : Posterior Probability  
 P(B/A) : Likelihood Probability
 
-**Posterior Probability:** Probability of hypothesis A on observed event B  
-**Likelihood Probability:** Probability of evidence given that the probability of hypothesis is true
+**Posterior Probability:** Probability of hypothesis A on observed event B.  
+**Likelihood Probability:** Probability of evidence given that the probability of hypothesis is true.
